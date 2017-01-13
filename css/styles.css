@@ -15,6 +15,10 @@
     padding: 0px 0px 5px 0px;
 }
 
+.caption {
+    font-style: italic;
+}
+
 .description {
     border: 1px;
     border-color: grey;
@@ -24,7 +28,7 @@
     padding: 5px 5px 5px 5px;
 }
 
-ul {
+.table-layout {
     list-style: none;
     padding: 0px;
     display: table;
