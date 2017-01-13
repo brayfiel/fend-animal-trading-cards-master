@@ -1,0 +1,31 @@
+/* add your CSS here */
+.body-layout {
+    background-color: #F2B70C;
+    color: black;
+    width: 300px;
+    /* top | right | bottom | left */
+    padding: 1px 10px 10px 10px;
+    border: 1px;
+    border-color: grey;
+    border-style: solid;
+    box-shadow: 5px 5px 5px lightgrey;
+}
+
+.image {
+    padding: 0px 0px 5px 0px;
+}
+
+.description {
+    border: 1px;
+    border-color: grey;
+    border-style: solid;
+    width: 289px;
+    font-size: small;
+    padding: 5px 5px 5px 5px;
+}
+
+ul {
+    list-style: none;
+    padding: 0px;
+    display: table;
+}
